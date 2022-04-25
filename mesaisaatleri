@@ -1,10 +1,10 @@
 [
  {
    "FIELD1": "PAZARTESİ",
-   "08:30": "ALPER\nKEREM\nALİCAN\nHAKAN",
-   "15:00": "ALPER\nKEREM\nÇAĞATAY\nALİCAN\nHAKAN\nİSMAİL",
-   "18:00": "ALPER\nKEREM\nÇAĞATAY\nALİCAN\nHAKAN\nİSMAİL",
-   "24:00": "İSMAİL\nÇAĞATAY",
+   "08:30": "ALPER","KEREM", "ALİCAN", "HAKAN",
+   "15:00": "ALPER", "KEREM", "ÇAĞATAY", "ALİCAN", "HAKAN", "İSMAİL",
+   "18:00": "ALPER", "KEREM", "ÇAĞATAY", "ALİCAN", "HAKAN", "İSMAİL",
+   "24:00": "İSMAİL", "ÇAĞATAY",
    "İZİNLİ": "MERİÇ"
  },
  {
