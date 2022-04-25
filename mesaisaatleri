@@ -1,23 +1,23 @@
 [
-{
+"pazartes": {
 
 "id": "0",
 "name": "Alper Ece"
 
 },
-{
+"sali":{
 
 "id": "1",
 "name": "Meriç Çevik"
 
 },
-{
+"carsamba":{
 
 "id": "2",
 "name": "Atilla Cenk"
 
 },
-{
+"persembe":{
 
 "id": "3",
 "name": "Cenk  Uzun"
