@@ -1,58 +1,26 @@
 [
- {
-   "FIELD1": "PAZARTESİ",
-   "08:30": "ALPER","KEREM", "ALİCAN", "HAKAN",
-   "15:00": "ALPER", "KEREM", "ÇAĞATAY", "ALİCAN", "HAKAN", "İSMAİL",
-   "18:00": "ALPER", "KEREM", "ÇAĞATAY", "ALİCAN", "HAKAN", "İSMAİL",
-   "24:00": "İSMAİL", "ÇAĞATAY",
-   "İZİNLİ": "MERİÇ"
- },
- {
-   "FIELD1": "SALI",
-   "08:30": "ALPER\nKEREM\nHAKAN\nMERİÇ",
-   "15:00": "ALPER\nKEREM\nÇAĞATAY\nHAKAN\nMERİÇ\nİSMAİL",
-   "18:00": "ALPER\nKEREM\nÇAĞATAY\nHAKAN\nMERİÇ\nİSMAİL",
-   "24:00": "İSMAİL\nÇAĞATAY",
-   "İZİNLİ": "ALİCAN"
- },
- {
-   "FIELD1": "ÇARŞAMBA",
-   "08:30": "ALPER\nALİCAN\nHAKAN\nMERİÇ",
-   "15:00": "ALPER\nÇAĞATAY\nALİCAN\nHAKAN\nMERİÇ\nİSMAİL",
-   "18:00": "ALPER\nÇAĞATAY\nALİCAN\nHAKAN\nMERİÇ\nİSMAİL",
-   "24:00": "İSMAİL\nÇAĞATAY",
-   "İZİNLİ": "KEREM"
- },
- {
-   "FIELD1": "PERŞEMBE",
-   "08:30": "KEREM\nALİCAN\nHAKAN\nMERİÇ",
-   "15:00": "KEREM\nÇAĞATAY\nALİCAN\nHAKAN\nMERİÇ\nİSMAİL",
-   "18:00": "KEREM\nÇAĞATAY\nALİCAN\nHAKAN\nMERİÇ\nİSMAİL",
-   "24:00": "İSMAİL\nÇAĞATAY",
-   "İZİNLİ": "ALPER"
- },
- {
-   "FIELD1": "CUMA",
-   "08:30": "ALPER\nKEREM\nALİCAN\nMERİÇ",
-   "15:00": "ALPER\nKEREM\nÇAĞATAY\nALİCAN\nMERİÇ\nİSMAİL",
-   "18:00": "ALPER\nKEREM\nÇAĞATAY\nALİCAN\nMERİÇ\nİSMAİL",
-   "24:00": "İSMAİL\nÇAĞATAY",
-   "İZİNLİ": "HAKAN"
- },
- {
-   "FIELD1": "CUMARTESİ",
-   "08:30": "ALİCAN\nHAKAN\nMERİÇ",
-   "15:00": "ALİCAN\nHAKAN\nMERİÇ\nALPER\nKEREM",
-   "18:00": "ALİCAN\nHAKAN\nMERİÇ\nALPER\nKEREM",
-   "24:00": "ALPER\nKEREM",
-   "İZİNLİ": "İSMAİL\nÇAĞATAY"
- },
- {
-   "FIELD1": "PAZAR",
-   "08:30": "TATİL",
-   "15:00": "TATİL",
-   "18:00": "TATİL",
-   "24:00": "TATİL",
-   "İZİNLİ": ""
- }
+{
+
+"id": "0",
+"name": "Alper Ece"
+
+},
+{
+
+"id": "1",
+"name": "Meriç Çevik"
+
+},
+{
+
+"id": "2",
+"name": "Atilla Cenk"
+
+},
+{
+
+"id": "3",
+"name": "Cenk  Uzun"
+
+},
 ]
